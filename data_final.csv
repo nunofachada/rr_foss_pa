@@ -1,0 +1,22 @@
+Interfaces;Category;Languages;Keywords
+Text,Graphic;D;Python;gnss,raspberry pi,autonomous robot,seed planting,low-cost
+Text;A;C/C++;automation,arduino,air quality,iot,monitoring
+Graphic;D;Python;crop yield,low-cost, weed detection,herbicide application,image analysis
+Text,Graphic;D;Python;low-cost,multispectral imaging,uas,embedded electronics,optimization
+Text,Graphic,Library;B;Python; photogrammetry,phenotyping,uas,gis,orthomosaic
+Text;A;C/C++,Python;automation, arduino,monitoring,raspberry pi,plant growth
+Graphic;C;Java,JavaScript;arduino,iot,irrigation,water use,automation
+Graphic,Plugin;E;Java,C/C++,R;decision support,geostatistics,spatial analysis,gis,temporal data
+Text;A;Java,Python;uas,autonomous photography,faas,machine learning,edge computing
+Text,Library,Graphic;D;Python;automation,ordinary kriging,clustering analysis,yield map,data filtering
+Graphic;C;Java;iot,meteorological data,irrigation,water use,android
+Text,Library,Graphic;C;MATLAB,Python;thermal imaging,uas,vegetation index,image processing,raspberry pi
+Library;A;Python;data-driven plant breeding,data processing,data visualization,location data,big data
+Text;A;C/C++;object detection,crop spraying,energy-efficient,uas,computer vision
+Graphic;D;JavaScript;automation,geovisualization,time series,vegetation index,satellite images
+Graphic;A;Java;spatial data,local analysis, map accuracy,outliers,data filtering
+Library;E;Python;decision support,vegetation index,monitoring,multispectral imaging,uas
+Text;E;Python;monitoring,dairy cow,data processing,automation,heat analysis
+Text;C;Python,C/C++;irrigation,distributed systems,meteorological data,automation,water use
+Library;E;Python;deep learning,unmanned ground vehicles,monitoring,path planning,automation
+Plugin,Library;E;R,Python;gis,geoprocessing,spatial analysis,geocomputing,path planning
