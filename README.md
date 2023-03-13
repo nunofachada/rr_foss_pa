@@ -4,6 +4,7 @@
 
 This repository contains the following files and folders:
 
+* `CITATION.cff`- Citation file.
 * `data_final.csv` - Data extracted for each word discussed in the review.
 * `images`- Folder containing the images generated with the `summarize.ipynb`
   notebook.
@@ -21,8 +22,8 @@ repository.
 
 ## Licenses
 
-- The code in the Jupyter Notebook is made available under the
+* The code in the Jupyter Notebook is made available under the
 [MIT](https://opensource.org/licenses/MIT) license (see `LICENSE_CODE.txt`).
-- The non-code materials are made available under a
+* The non-code materials are made available under a
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license (see
 `LICENSE_OTHER.txt`).

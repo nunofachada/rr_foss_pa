@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Supplementary materials for "A Rapid Review on the Use of Free and Open
+  Source Technologies and Software Applied to Precision Agriculture Practices"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nuno
+    family-names: Fachada
+    email: nuno.fachada@ulusofona.pt
+    affiliation: 'Lusófona University, COPELABS'
+    orcid: 'https://orcid.org/0000-0002-8487-5837'
+repository-code: 'https://github.com/nunofachada/rr_foss_pa/'
+abstract: >-
+  The images presented in the research paper "A Rapid Review on the Use of Free
+  and Open Source Technologies and Software Applied to Precision Agriculture
+  Practices", can be reproduced with the Jupyter notebook included with this
+  repository.
+keywords:
+  - precision agriculture
+  - free and open source software
+  - free and open source technologies
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Rogério P.
+      family-names: dos Santos
+      email: rogerio.dosantos@ifpr.edu.br
+      affiliation: 'Instituto Federal do Paraná (IFPR)'
+      orcid: 'https://orcid.org/0000-0002-1229-8807'
+    - given-names: Nuno
+      family-names: Fachada
+      email: nuno.fachada@ulusofona.pt
+      affiliation: 'COPELABS, Lusófona University'
+      orcid: 'https://orcid.org/0000-0002-8487-5837'
+    - given-names: Marko
+      family-names: Beko
+      email: beko.marko@ulusofona.pt
+      affiliation: 'COPELABS, Lusófona University'
+      orcid: 'https://orcid.org/0000-0001-7315-8739'
+    - given-names: Valderi R. Q.
+      family-names: Leithardt
+      email: valderi@ipportalegre.pt
+      affiliation: 'VALORIZA—Research Centre for Endogenous Resource
+        Valorization, Polytechnic Institute of Portalegre'
+      orcid: 'https://orcid.org/0000-0001-9180-0545'
+  journal: "Journal of Sensor and Actuator Networks"
+  title: "A Rapid Review on the Use of Free and Open Source Technologies and
+    Software Applied to Precision Agriculture Practices"
+  year: 2023
+
