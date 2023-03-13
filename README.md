@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/612361702.svg)](https://zenodo.org/badge/latestdoi/612361702)
+
 # Supplementary materials for "A Rapid Review on the Use of Free and Open Source Technologies and Software Applied to Precision Agriculture Practices"
 
 ## Overview
